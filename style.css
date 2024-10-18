@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'DroidSansNerdFont';
+  src: url('DroidSansMNerdFont-Regular.otf') format('opentype');
+}
+
+body {
+  background-color: #1d1d1d;
+  color: #FF495C;
+  font-family: 'DroidSansNerdFont';
+}
