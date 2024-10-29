@@ -8,3 +8,18 @@ body {
   color: #FF495C;
   font-family: 'DroidSansNerdFont';
 }
+
+#cards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  border: 5px solid #FF495C;
+  border-radius: 10px;
+  width: 17vw;
+  height: 10vw;
+  margin: 10px;
+}
