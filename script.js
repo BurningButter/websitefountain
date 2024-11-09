@@ -1,1 +1,1 @@
-"https://docs.google.com/spreadsheets/d/e/2PACX-1vS5iZwKtAoTtOLa-arMPvBVQAVP0tpraL2PTZr2eopwHfsHhZ_9_7XqlbAmwDVvJqnA-TZbfX_PvQRd/pub?output=csv"
+"https://foutaindatagrabber.vercel.app/api/data"
