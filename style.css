@@ -5,7 +5,7 @@
 
 body {
   background-color: #1d1d1d;
-  color: #FF495C;
+  color: #cbeaa6;
   font-family: 'DroidSansNerdFont';
 }
 
@@ -17,7 +17,7 @@ body {
 }
 
 .card {
-  border: 5px solid #FF495C;
+  border: 5px solid #cbeaa6;
   border-radius: 10px;
   width: 17vw;
   height: 10vw;
