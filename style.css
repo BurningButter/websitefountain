@@ -1,12 +1,12 @@
 @font-face {
-  font-family: 'DroidSansNerdFont';
-  src: url('DroidSansMNerdFont-Regular.otf') format('opentype');
+  font-family: "DroidSansNerdFont";
+  src: url("/assets/DroidSansMNerdFont-Regular.otf") format("opentype");
 }
 
 body {
   background-color: #1d1d1d;
   color: #cbeaa6;
-  font-family: 'DroidSansNerdFont';
+  font-family: "DroidSansNerdFont";
 }
 
 #cards {
@@ -26,4 +26,9 @@ body {
 
 a {
   color: #cbeaa6;
+}
+
+.thumb {
+  width: 20;
+  height: 20;
 }
