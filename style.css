@@ -20,7 +20,7 @@ body {
   display: flex;
   border: 5px solid #cbeaa6;
   border-radius: 10px;
-  width: 300px;
+  width: 400px;
   height: 200px;
   margin: 10px;
 }
@@ -48,4 +48,6 @@ a {
   flex-direction: column;
   justify-content: space-around;
   margin-left: auto;
+  width: 40%;
+  text-align: center;
 }
