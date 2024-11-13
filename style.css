@@ -1,6 +1,6 @@
 @font-face {
   font-family: "DroidSansNerdFont";
-  src: url("./assets/DroidSansMNerdFont-Regular.otf") format("opentype");
+  src: url("/assets/DroidSansMNerdFont-Regular.otf") format("opentype");
 }
 
 body {
@@ -34,4 +34,18 @@ a {
   margin-left: auto;
   margin-right: none;
   width: 50%;
+}
+
+.tag {
+  border: 2px solid #cbeaa6;
+  border-radius: 30px;
+  background-color: #2e2e2e;
+  text-align: center;
+}
+
+.card-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin-left: auto;
 }
