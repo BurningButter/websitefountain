@@ -17,6 +17,7 @@ body {
 }
 
 .card {
+  display: flex;
   border: 5px solid #cbeaa6;
   border-radius: 10px;
   width: 300px;
