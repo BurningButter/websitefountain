@@ -9,7 +9,7 @@ body {
   font-family: "DroidSansNerdFont";
 }
 
-#cards {
+.cards {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
