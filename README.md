@@ -4,6 +4,7 @@ Drinking Fountain Reviewer
 ===============
 
 Website designed for reviewing and viewing reviews for the water fountains at U32 Middle & High School
+Very soon it will be pulling data from the API at https://github.com/BurningButter/foutaindatagrabber to automatically fill reviews and calculate star ratings!
 
 Demo
 ---------------
