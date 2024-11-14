@@ -1,4 +1,4 @@
-const json = Papa.parse("https://proxy.brnbtr.click/api/cors?url=https://docs.google.com/spreadsheets/d/e/2PACX-1vS5iZwKtAoTtOLa-arMPvBVQAVP0tpraL2PTZr2eopwHfsHhZ_9_7XqlbAmwDVvJqnA-TZbfX_PvQRd/pub?output=csv", {
+const json = Papa.parse("https://proxy.brnbtr.click/api/cors?url=https://docs.google.com/spreadsheets/d/e/2PACX-1vS5iZwKtAoTtOLa-arMPvBVQAVP0tpraL2PTZr2eopwHfsHhZ_9_7XqlbAmwDVvJqnA-TZbfX_PvQRd/pub?output=csv&ndplr=1", {
   download: true,
   delimiter: ",",
   header: true,
