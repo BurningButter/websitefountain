@@ -1,6 +1,6 @@
 <img src="https://cloud-avxkw4ux3-hack-club-bot.vercel.app/0frame_2.png" width=240px>
 
-Drinking Fountain Reviewer
+Drinking Fountain Reviewer (abandoned)
 ===============
 
 Website designed for reviewing and viewing reviews for the water fountains at U32 Middle & High School
